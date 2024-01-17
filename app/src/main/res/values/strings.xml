@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Quick Note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="toolBarHome">All Notes</string>
+    <string name="toolBarSave">New Note</string>
+    <string name="toolBarReplace">Replace Note</string>
+</resources>
